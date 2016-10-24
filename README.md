@@ -1,2 +1,11 @@
-# hike-it
-Mobile app. for hiking trails.
+# Hike It (HI)
+
+Open-source hiking mobile applicaton. An alternative to All Trails.
+
+Created by:
+* Shayan Dhanani
+* Abhishek Pradhan
+
+## TechStack
+
+## More ...
