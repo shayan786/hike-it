@@ -7,6 +7,8 @@ Created by:
 * Abhishek Pradhan
 * Han Xu
 
+[hike-it.slack.com](http://hike-it.slack.com)
+
 ## TechStack
 
 ## More ...
